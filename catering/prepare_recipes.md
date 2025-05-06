@@ -1,0 +1,9 @@
+- read the file with the latest date in the title from the catering/analyze/ directory
+- look for dates where the dish is not ok for at least one kid
+- read preferences from catering/preferences directory 
+- for those days suggest recipes for dishes easy to prepare at home the day before and easy to warm up. If there are two days in the row, the recipe could use the same "base" to prepare lunches for two days
+- even if there are recipes for two consecutive days, show both as a separate row in the table
+- recipes should be simple and fast, e.g. without preparing dumpings, as it is time consuming
+- recipes should include all macro elements needed, vegetables and meat, or other source od protein
+- avoid sugar 
+-  save recipes as a markdown table with date, recipe and ingredients. the file name should be menu/<date_from_the_analyze_file>_recipes.md 

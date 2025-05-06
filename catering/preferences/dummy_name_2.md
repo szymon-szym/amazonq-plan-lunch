@@ -1,0 +1,4 @@
+- nie lubi cukinii
+- nie lubi surowych i suszonych pomidorów
+- lubi mięso
+- lubi obiady "na słodko"

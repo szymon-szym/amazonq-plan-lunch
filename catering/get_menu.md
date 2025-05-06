@@ -1,0 +1,9 @@
+- read catering/.env file and get CATERING_LOGIN and CATERING_PASSWORD
+- go to https://www.zamow.kuchniacateringowa.pl/ and login
+- go to https://www.zamow.kuchniacateringowa.pl/Product/Menu
+- click "Pokaż menu" for "SZKOŁA PODSTAWSOWA- KLASY 1-8"
+- check the "II danie + zupa" and "II danie + zupa + deser" for each date and create a table in the markdown format with the following columns
+    - date
+    - main dish (keep it in Polish)
+    - desert (keep it in Polish)
+- save the table as a <last_date_from_menu>.md in the catering/menu/ directory

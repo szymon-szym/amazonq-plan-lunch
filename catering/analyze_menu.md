@@ -1,0 +1,13 @@
+- go to catering/menu directory and read the file with the newest date in the title. the date needs to be not earlier than tomorrow, otherwise stop the process
+- read preferences from catering/preferences directory 
+- check the "Main Dish" column from the menu file for each date and create a table in the markdown format with the following columns
+    - date
+    - main dish (keep it in Polish)
+    - desert (keep it in Polish)
+    - OK for dummy_name_1 (use emoji for OK, NOT, SO-SO)
+    - comment dummy_name_1 (based on loaded preferences, why this dish will be OK, NOT or SO-SO)
+    - OK for dummy_name_2 (use emoji for OK, NOT, SO-SO)
+    - comment dummy_name_2 (based on loaded preferences, why this dish will be OK, NOT or SO-SO)
+- for NOT use red cross emoji
+- save the table as a <last_date_from_table>.md in the catering/analyze/ directory
+- save the file in the catering/analyze/ directory

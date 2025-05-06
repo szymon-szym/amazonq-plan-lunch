@@ -1,0 +1,5 @@
+- nie lubi mięsa, szczególnie w sosie. wyjątkiem są pierogi, kotlety bez sosu, kebab
+- lubi spaghetti, też z mięsem
+- dopuszcza mięso w zupie i zupy na bazie mięsa
+- nie lubi cukinii
+- lubi obiady "na słodko"

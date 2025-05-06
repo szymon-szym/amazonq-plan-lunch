@@ -1,0 +1,5 @@
+- read the file with the latest date in the title from the catering/analyze/ directory
+- post page with the content from the file named as a file. parent page ID is 1eac5262835580c28f59cd9bd1e24ae1
+- use Notion formatting to create a page to preserve headings and to add table
+- page should be named "Catering analysis <date_from_the_file_name>"
+- if there is already page with this name as a child of 1eac5262835580c28f59cd9bd1e24ae1, update existing page instead of creating the new one
