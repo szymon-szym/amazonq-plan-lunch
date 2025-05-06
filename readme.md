@@ -1,0 +1,1 @@
+repo [fot the DEV blog post](https://dev.to/szymonszym/plan-school-lunches-for-kids-with-amazon-q-4kln)
